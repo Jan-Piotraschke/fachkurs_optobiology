@@ -1,0 +1,22 @@
+TODO: Strecke s und Zeit t (wie schnell der Komet sich bewegt)
+Wenn der Kommet verschwinedet, gab es eine 'Catastrophe'
+
+
+! Bei den Komet wollen wir lieber mit 3Hz oder 4Hz messen
+
+Mit TrackMate kann man leicht die Bewegung der Kometen verfolgen 
+
+Fiji:\\
+Tastenkürzel:\\
+- 'm': meassurement \\
+- 'shift + E': letztes Area Selection Auswahl
+- 'shift + P': Bild Skallierung 
+'set meassurement'
+
+1. kommet auswählen 
+1.2 TrackMate öffnen
+2. LoG detector
+
+
+
+'Load TrackMate file'
