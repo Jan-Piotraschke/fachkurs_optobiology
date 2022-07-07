@@ -20,3 +20,6 @@ Tastenkürzel:\\
 
 
 'Load TrackMate file'
+
+'LUT' anklicken, um das Bild zu färben
+'fn' + 'shift' + 'c' um die Intensität des Bildes zu verändern 
